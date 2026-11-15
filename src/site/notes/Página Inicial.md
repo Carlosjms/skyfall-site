@@ -1,0 +1,49 @@
+---
+{"dg-publish":true,"permalink":"/pagina-inicial/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":"homepage-centralizada"}}
+---
+
+# ☄️ Skyfall RPG
+
+Boas-vindas ao arquivo vivo da nossa campanha de RPG. Este site reúne tudo o que aconteceu na mesa: os diários de sessão, os personagens dos jogadores e até mesmo aquelas pessoas que apareceram para contribuir (ou atrapalhar) a jornada dos aventureiros, e até mesmo os locais que já exploraram. 
+
+Use os atalhos abaixo para navegar. Espero que esse acervo ajude a manter essa história viva no coração de cada um.
+
+---
+
+# 🗺️ Explorar o Mundo
+
+| 📖 [[3. Sessões de jogo/Diários de Campanha\|Diários de Campanha]]             | 🧙 [[1. Grupo/Personagens/Visão Geral\|Personagens]] |
+| --------------------------------------------- | --------------------------------- |
+| O registro sessão a sessão da nossa história. | Quem são os heróis desta jornada. |
+
+| 👥 [[2. Mundo/NPCs/Visão Geral dos NPCs\|NPCs]]                      | 🗺️ [[2. Mundo/Locais/Locais de destaque\|Locais de destaque]] |
+|---|---|
+| Aliados, inimigos e todos os que cruzaram nosso caminho. | Os cantos do mundo que já exploramos. |
+
+---
+
+# 👥 O Grupo
+
+
+|[[1. Grupo/Personagens/Belladonna\|Belladonna]]| [[1. Grupo/Personagens/Briguela\|Briguela]] | [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] |
+|:---:|:---:|:---:|
+| ![[Bella Donna.jpeg\|100]] | ![[Briguela.jpeg\|100]] | ![[Cory Cory.jpeg\|100]] |
+
+| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]] | [[1. Grupo/Personagens/Puck\|Puck]] | [[1. Grupo/Personagens/Rue\|Rue]] |
+|:---:|:---:|:---:|
+| ![[Dodoia Braith.jpeg\|100]] | ![[Puck.jpeg\|100]] | ![[Rue.jpeg\|100]] |
+
+---
+
+# 📕  Livro de Regras
+
+Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: [Skyfall Livro Básico](https://1drv.ms/b/c/5923b906b67d34e0/IQAuVs8D8NrqRpipwX0cGIIoAXk5490ircXPpbjCyy-BX6U?e=MejTOE).
+
+---
+
+# 🕓 Recentemente atualizado
+
+| Nota | Modificado em |
+| ---- | ------------- |
+
+{ .block-language-dataview}
