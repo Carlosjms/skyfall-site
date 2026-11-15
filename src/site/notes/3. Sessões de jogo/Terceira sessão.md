@@ -6,42 +6,42 @@
 Após fechar um arco de aventura os personagens foram recompensados com o up para o segundo nível.
 
 ## Puck 
-![[Puck.jpeg\|profile+circle]]
+![Puck.jpeg\|profile+circle left\|150](/img/user/Main/z_Assets/Imagens/Pessoas/Puck.jpeg)
 
 Ele passou um tempo de reclusão com a própria entidade **Morte** no corredor e escreveu um livro de couro, ampliando sua **devoção** à entidade.
 
 **Mecânica:** escolheu a trilha **Devoto**.
 
 ## Briguela 
-![[Briguela.jpeg\|left]]
+![Briguela.jpeg\|left profile+circle\|120](/img/user/Main/z_Assets/Imagens/Pessoas/Briguela.jpeg)
 
 Ela roubou um livro de artefatos magitec de [[2. Mundo/NPCs/Edgar Laurentis (cientista)\|Edgar Laurentis]] na taverna Lula Saltitante e estudou-o para aprimorar suas habilidades de artesã **magitécnica**. Descobriu que Edgar Laurentis era um competente **magitécnico** da **Impirish Noitu**.
 
 **Mecânica:** escolheu a trilha **Magitécnico**.
 
 ## Dodoia Braith
-![[Dodoia Braith.jpeg\|left]]
+![Dodoia Braith.jpeg\|left profile+circle\|150](/img/user/Main/z_Assets/Imagens/Pessoas/Dodoia%20Braith.jpeg)
 
 Ele se embrenhou na mata para aprimorar sua produção de venenos utilizando sapos venenosos, o que lhe permite eliminar alvos mais facilmente 
 
 **Mecânica:** escolheu a trilha **Assassino**.
 
 ## Rue 
-![[Rue.jpeg\|left]]
+![Rue.jpeg\|left profile+circle\|130](/img/user/Main/z_Assets/Imagens/Pessoas/Rue.jpeg)
 
 Ela se juntou ao grupo após um período de reclusão, buscando compreender seu real poder interno, que a conecta com o **elemento fogo**.
 
 **Mecânica:** escolheu a trilha **Elementalista**.
 
 ## Cory Cory 
-![[Cory Cory.jpeg\|profile+circle]]
+![Cory Cory.jpeg\|profile+circle left\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Cory%20Cory.jpeg)
 
 Ela foi buscar a sua **libélula gigante** [[1. Grupo/Companheiros/Crocothemis\|Crocothemis]], em **Alberich**, que estava machucada e sob os cuidados de especialistas.
 
 **Mecânica:** escolheu a trilha **Mestre das Feras**.
 
 ## Belladonna 
-![[Bella Donna.jpeg\|profile+circle]]
+![Bella Donna.jpeg\|profile+circle left\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Bella%20Donna.jpeg)
 
 Ela fez um intenso treinamento na floresta, socando árvores, aperfeiçoando sua habilidade com os punhos.
 
@@ -80,7 +80,7 @@ Os aventureiros tiveram uma opinião muito forte sobre a aparição de [[2. Mund
 # Informações com o ferreiro
 O grupo de aventureiros se dirigiu até a ferraria **Fornalha de Tief** para tirar informações de [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé]], um habilidoso artesão na arte. 
 
-![[Tomé ferreiro.jpg\|profile+circle]]
+![Tomé ferreiro.jpg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Tom%C3%A9%20ferreiro.jpg)
 
 Descobriram as informações:
 - **Tomé** vendeu todo seu estoque de **ferro varmaniano** para uma **humani** que se identificou como **Pilar**.
@@ -91,7 +91,7 @@ Descobriram as informações:
 # Conversa com Bakir 
 Conheceram o anão [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]], um ex-stripper a serviço de **Victor**, um chefe de cassino em **Alberich**, e agora membro da **Guilda de Mayhem**. Ele contou que estragou o seu cargo no antigo emprego no **Cassino Vegas** e foi demitido, mas sente falta. **Bakir** contou que está enojado com a baixaria que é a **Guilda de Mayhem** em **Sal'ein**.
 
-![[Bakir Brick.jpg\|profile+circle]]
+![Bakir Brick.jpg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Bakir%20Brick.jpg)
 
 Destaques do encontro:
 - Ele precisa de ajuda para sair vivo da **Guilda de Mayhem**.
@@ -109,19 +109,19 @@ Eles precisam fazer uma escolta para [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé (fe
 ## Descobrir Pilar
 A [[2. Mundo/NPCs/Humani (da corte do inverno)\|humani]] que usava um brasão da **Corte de Inverno** na **fábrica abandonada de passarolas** comprou cápsulas de **ferro varmaniano** com [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé]]. Ela usou o nome de **Pilar** para a transação de 2100 trocados para o artesão.
 
-![[Revolver.webp\|banner+small]]
+![Revolver.webp\|banner+small](/img/user/Main/z_Assets/Imagens/Tesouros/Revolver.webp)
 
 ## Ajudar Brick 
 [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]] pediu ajuda para forjar a própria morte, permitindo que ele fuja da **Guilda de Mayhem**. O que os aventureiros pode fazer para ajudá-los?
 
-![[Bakir Brick.jpg\|banner+small]]
+![Bakir Brick.jpg\|banner+small](/img/user/Main/z_Assets/Imagens/Pessoas/Bakir%20Brick.jpg)
 
 ## Consertar veículos
 [[1. Grupo/Personagens/Belladonna\|Belladonna]] e [[1. Grupo/Personagens/Briguela\|Briguela]] possuem veículos quebrados parados em suas respectivas garagens. Elas precisam consertá-los para poder usá-los. 
 
-![[Passarola.jpg\|banner+small]]
+![Passarola.jpg\|banner+small](/img/user/Main/z_Assets/Imagens/Gerais/Passarola.jpg)
 
 ## Investigar as sombras roubadas no Reino de Blurgh'Ta
 Parece que tem mais almas sendo roubadas no **Reino de Blurgh'Ta**. O que será que está acontecendo por lá?
 
-![[Anuro.jpg\|banner+tall]]
+![Anuro.jpg\|banner+tall](/img/user/Main/z_Assets/Imagens/Legados/Anuro.jpg)

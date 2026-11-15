@@ -5,8 +5,8 @@
 
 ## Origem
 > [!infobox|npc]
-> ![[Anuro.jpg\|cover hsmall]]
-> [[Anuro.jpg\|Show To Players]]
+> ![Anuro.jpg\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/Anuro.jpg)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/Anuro.jpg)
 > 
 
 | Idade        |                                   |

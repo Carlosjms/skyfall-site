@@ -7,4 +7,4 @@
 
 Ah, ela tem cabelo.
 
-![[Cory Cory.jpeg\|profile+circle]]
+![Cory Cory.jpeg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Cory%20Cory.jpeg)

@@ -4,8 +4,8 @@
 
 ## Origem
 > [!infobox|npc]
-> ![[Elfo_do_inverno.jpg\|cover hsmall]]
-> [[Elfo_do_inverno.jpg\|Show To Players]]
+> ![Elfo_do_inverno.jpg\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/Elfo_do_inverno.jpg)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/Elfo_do_inverno.jpg)
 > 
 
 A mais bela e apreciada obra da titâ Sa’al’Lima, a população élfica veio do planeta Sa'al junto com os gnomos e quando chegaram em Opath os elfos instauraram as Quatro Cortes trazendo assim as quatro novas estações do ano. Os elfos se espalharam por toda Opath, sendo a maior população de Opath.

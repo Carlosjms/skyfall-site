@@ -3,8 +3,8 @@
 ---
 
 > [!infobox|npc]
-> ![[Tatsunoko.jpg\|cover hsmall]]
-> [[Tatsunoko.jpg\|Show To Players]]
+> ![Tatsunoko.jpg\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/Tatsunoko.jpg)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/Tatsunoko.jpg)
 > 
 
 ## Origem

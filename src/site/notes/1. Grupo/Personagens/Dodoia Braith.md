@@ -4,4 +4,4 @@
 
 É um [[4. Regras/Legados (1)/Elfe_jog\|Elfe]] sem corte que foi amaldiçoado por Eríneas, carregando serpentes em sua cabeça.
 
-![[Dodoia Braith.jpeg\|profile+circle]]]
+![Dodoia Braith.jpeg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Dodoia%20Braith.jpeg)]

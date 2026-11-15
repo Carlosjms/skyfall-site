@@ -3,8 +3,8 @@
 ---
 
 > [!infobox|npc]
-> ![[GnomoLivreto.png\|cover hsmall]]
-> [[GnomoLivreto.png\|Show To Players]]
+> ![GnomoLivreto.png\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/GnomoLivreto.png)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/GnomoLivreto.png)
 > 
 
 ## Origem

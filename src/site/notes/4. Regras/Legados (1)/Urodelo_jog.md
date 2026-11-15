@@ -4,8 +4,8 @@
 
 
 > [!infobox|npc]
-> ![[Urodelo.jpg\|cover hsmall]]
-> [[Urodelo.jpg\|Show To Players]]
+> ![Urodelo.jpg\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/Urodelo.jpg)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/Urodelo.jpg)
 > 
 
 # Origem

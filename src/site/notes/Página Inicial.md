@@ -25,13 +25,13 @@ Use os atalhos abaixo para navegar. Espero que esse acervo ajude a manter essa h
 # 👥 O Grupo
 
 
-|[[1. Grupo/Personagens/Belladonna\|Belladonna]]| [[1. Grupo/Personagens/Briguela\|Briguela]] | [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] |
-|:---:|:---:|:---:|
-| ![[Bella Donna.jpeg\|100]] | ![[Briguela.jpeg\|100]] | ![[Cory Cory.jpeg\|100]] |
+| [[1. Grupo/Personagens/Belladonna\|Belladonna]] | [[1. Grupo/Personagens/Briguela\|Briguela]]  | [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] |
+| :------------------------: | :---------------------: | :--------------------------------------------------: |
+| ![Bella Donna.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Bella%20Donna.jpeg) | ![Briguela.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Briguela.jpeg) |               ![Cory Cory.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Cory%20Cory.jpeg)               |
 
-| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]] | [[1. Grupo/Personagens/Puck\|Puck]] | [[1. Grupo/Personagens/Rue\|Rue]] |
-|:---:|:---:|:---:|
-| ![[Dodoia Braith.jpeg\|100]] | ![[Puck.jpeg\|100]] | ![[Rue.jpeg\|100]] |
+| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]] |   [[1. Grupo/Personagens/Puck\|Puck]]    |    [[1. Grupo/Personagens/Rue\|Rue]]    |
+| :------------------------------: | :-----------------: | :----------------: |
+|   ![Dodoia Braith.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Dodoia%20Braith.jpeg)   | ![Puck.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Puck.jpeg) | ![Rue.jpeg\|100](/img/user/Main/z_Assets/Imagens/Pessoas/Rue.jpeg) |
 
 ---
 

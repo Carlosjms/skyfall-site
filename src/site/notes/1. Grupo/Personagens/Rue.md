@@ -5,4 +5,4 @@
 
 É uma pequena [[4. Regras/Legados (1)/Urodelo_jog\|urodelo]] de fogo que encontrou nesse grupo de aliados uma âncora para seu senso de proteção.
 
-![[Rue.jpeg\|profile+circle]]
+![Rue.jpeg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Rue.jpeg)

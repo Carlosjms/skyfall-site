@@ -3,8 +3,8 @@
 ---
 
 > [!infobox|npc]
-> ![[Sanguir.jpg\|cover hsmall]]
-> [[Sanguir.jpg\|Show To Players]]
+> ![Sanguir.jpg\|cover hsmall](/img/user/Main/z_Assets/Imagens/Legados/Sanguir.jpg)
+> [Show To Players](/img/user/Main/z_Assets/Imagens/Legados/Sanguir.jpg)
 > 
 
 ## Origem
