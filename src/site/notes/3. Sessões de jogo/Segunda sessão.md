@@ -34,9 +34,9 @@ A cidade portuária de [[2. Mundo/Locais/Sal'ein\|Sal'ein]] os recebeu de portas
 
 ![Ferdinand Kishin Mercador.webp\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Ferdinand%20Kishin%20Mercador.webp)
 
-Ele não escondeu a sua surpresa por ver o grupo conseguir executar a missão que tantos outros falharam, soando até mesmo ríspido demais. Mas ele estava extremamente feliz por ver [[2. Mundo/NPCs/Leonel (elfo do verão)\|Leonel]] são e salvo. Ele explicou os problemas que essa descoberta deles, da **humani** usando o símbolo da **[[2. Mundo/Organizações/Corte do Inverno\|Corte do Inverno]]**, poderia levar a um conflito entre as duas cortes com proporções jamais antes vistas. O caso já está na boca do povo, visto que o [Boletim da Queda](/img/user/2.%20Mundo/Boletim%20da%20Queda_jog/Boletim%20da%20Queda%20vol%201.png) já relatou o desaparecimento de [[Leonel\|Leonel]]. 
+Ele não escondeu a sua surpresa por ver o grupo conseguir executar a missão que tantos outros falharam, soando até mesmo ríspido demais. Mas ele estava extremamente feliz por ver [[2. Mundo/NPCs/Leonel (elfo do verão)\|Leonel]] são e salvo. Ele explicou os problemas que essa descoberta deles, da **humani** usando o símbolo da **[[2. Mundo/Organizações/Corte do Inverno\|Corte do Inverno]]**, poderia levar a um conflito entre as duas cortes com proporções jamais antes vistas. O caso já está na boca do povo, visto que o [Boletim da Queda](/img/user/Main/z_Assets/Imagens/Boletim%20da%20Queda/Boletim%20da%20Queda%20vol%201.png) já relatou o desaparecimento de [[Leonel\|Leonel]]. 
 
-![Boletim da Queda vol 1.png](/img/user/2.%20Mundo/Boletim%20da%20Queda_jog/Boletim%20da%20Queda%20vol%201.png)
+![Boletim da Queda vol 1.png](/img/user/Main/z_Assets/Imagens/Boletim%20da%20Queda/Boletim%20da%20Queda%20vol%201.png)
 
 Ao pedir um contato que possa lhes auxiliar na descoberta de mais informações sobre **A Sombra**, curiosos por causa do roubo da alma de [[2. Mundo/NPCs/Leonel (elfo do verão)\|Leonel]], [[2. Mundo/NPCs/Ferdinand (kishin contratante)\|Ferdinand]] lhes passou um nome: [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]], um membro da **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**, que controla a guarda da cidade de [[2. Mundo/Locais/Sal'ein\|Sal'ein]].
 

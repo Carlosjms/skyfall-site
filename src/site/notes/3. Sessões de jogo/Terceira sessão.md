@@ -75,7 +75,7 @@ A semana de investigações e conversas foi tempo suficiente para que um novo vo
 
 Os aventureiros tiveram uma opinião muito forte sobre a aparição de [[2. Mundo/NPCs/Joana (elfa da fábrica)\|Joana]] neste volume.
 
-![Boletim da Queda vol2.png](/img/user/2.%20Mundo/Boletim%20da%20Queda_jog/Boletim%20da%20Queda%20vol2.png)
+![Boletim da Queda vol2.png](/img/user/Main/z_Assets/Imagens/Boletim%20da%20Queda/Boletim%20da%20Queda%20vol2.png)
 
 # Informações com o ferreiro
 O grupo de aventureiros se dirigiu até a ferraria **Fornalha de Tief** para tirar informações de [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé]], um habilidoso artesão na arte. 
