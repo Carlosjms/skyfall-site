@@ -43,15 +43,15 @@ Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: 
 
 # 🕓 Recentemente atualizado
 
-| Nota                                                                                                  | Modificado em               |
-| ----------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Página Inicial\|Página Inicial]]                                                                 | 6:36 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Ferdinand (kishin contratante)\|Ferdinand (kishin contratante)]]                   | 6:34 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Leonel (elfo do verão)\|Leonel (elfo do verão)]]                                   | 6:34 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Victor (chefão da máfia)\|Victor (chefão da máfia)]]                               | 6:34 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé (ferreiro de Sal'ein)]]                           | 6:34 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Joana (elfa da fábrica)\|Joana (elfa da fábrica)]]                                 | 6:33 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Humani (da corte do inverno)\|Humani (da corte do inverno)]]                       | 6:33 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Edgar Laurentis (cientista da Impirish)\|Edgar Laurentis (cientista da Impirish)]] | 6:33 PM - November 16, 2026 |
+| Nota                                                                                | Modificado em               |
+| ----------------------------------------------------------------------------------- | --------------------------- |
+| [[1. Grupo/Personagens/Rue\|Rue]]                                                | 6:39 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Puck\|Puck]]                                              | 6:38 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                            | 6:38 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]]        | 6:38 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Briguela\|Briguela]]                                      | 6:38 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                                  | 6:37 PM - November 16, 2026 |
+| [[Página Inicial\|Página Inicial]]                                               | 6:36 PM - November 16, 2026 |
+| [[2. Mundo/NPCs/Ferdinand (kishin contratante)\|Ferdinand (kishin contratante)]] | 6:34 PM - November 16, 2026 |
 
 { .block-language-dataview}
