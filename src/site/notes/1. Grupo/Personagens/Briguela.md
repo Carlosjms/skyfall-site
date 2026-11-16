@@ -3,7 +3,7 @@
 ---
 
 ![Briguela.jpeg\|right profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Briguela.jpeg)
-É uma pequena [[4. Regras/Legados (1)/Tatsunoko_jog\|Tatsunoko]] de escamas brancas e douradas a depender da hora do dia. Viajou por Opath para entender melhor os seus poderes.
+É uma pequena [[4. Regras/Legados/Tatsunoko\|Tatsunoko]] de escamas brancas e douradas a depender da hora do dia. Viajou por Opath para entender melhor os seus poderes.
 
 
 

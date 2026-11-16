@@ -3,5 +3,5 @@
 ---
 
 ![Puck.jpeg\|right profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Puck.jpeg)
-É um pequeno [[4. Regras/Legados (1)/Gnomo_jog\|Gnomo]] com ânima de bode e cristais de aetherium nascendo em seu ser naturalmente mágico.
+É um pequeno [[4. Regras/Legados/Gnomo\|Gnomo]] com ânima de bode e cristais de aetherium nascendo em seu ser naturalmente mágico.
 

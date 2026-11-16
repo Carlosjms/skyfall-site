@@ -9,7 +9,7 @@ Suas investigações o levaram até uma enorme árvore próximo à **Confederaç
 Eles foram surpreendidos por uma densa névoa, que não os permitia ver mais do que um palmo à frente. Seus olhos ardiam e os olhos lacrimejavam. Eles tentaram encontrar uma direção para ir e foram sagazes em encontrar um ponto acima da névoa. Olhando por cima, conseguiram achar uma região que deixava a [[1. Grupo/Personagens/Briguela\|Briguela]] e o [[1. Grupo/Personagens/Puck\|Puck]] seguros. A [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] precisou gastar um pedaço de sua alma em um acordo com a **Sombra** para não cair e perder a consciência em um momento tão insalubre. [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]], amaldiçoado pelas **Eríneas**, conseguiu resistir muito bem o sufocamento daquela situação.
 ![Sombra_imagem.png\|banner+small](/img/user/Main/z_Assets/Imagens/Gerais/Sombra_imagem.png)
 
-A pequena [[4. Regras/Legados (1)/Tatsunoko_jog\|tatsunoko]] conseguiu fechar algumas válvulas para parar o vazamento de gás. E eles se descobriram em uma abandonada fábrica de **passarola**, os veículos de movimentação aérea de [[2. Mundo/Locais/Continente de Opath\|Opath]] que se parecem com uma mistura de navios e zeppelins. 
+A pequena [[4. Regras/Legados/Tatsunoko\|tatsunoko]] conseguiu fechar algumas válvulas para parar o vazamento de gás. E eles se descobriram em uma abandonada fábrica de **passarola**, os veículos de movimentação aérea de [[2. Mundo/Locais/Continente de Opath\|Opath]] que se parecem com uma mistura de navios e zeppelins. 
 
 ![Passarola.jpg\|banner](/img/user/Main/z_Assets/Imagens/Gerais/Passarola.jpg)
 

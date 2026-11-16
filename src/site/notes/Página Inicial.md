@@ -43,15 +43,15 @@ Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: 
 
 # 🕓 Recentemente atualizado
 
-| Nota                                                                                | Modificado em               |
-| ----------------------------------------------------------------------------------- | --------------------------- |
-| [[1. Grupo/Personagens/Rue\|Rue]]                                                | 6:39 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Puck\|Puck]]                                              | 6:38 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                            | 6:38 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]]        | 6:38 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Briguela\|Briguela]]                                      | 6:38 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                                  | 6:37 PM - November 16, 2026 |
-| [[Página Inicial\|Página Inicial]]                                               | 6:36 PM - November 16, 2026 |
-| [[2. Mundo/NPCs/Ferdinand (kishin contratante)\|Ferdinand (kishin contratante)]] | 6:34 PM - November 16, 2026 |
+| Nota                                                                                                        | Modificado em               |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[1. Grupo/Personagens/Rue\|Rue]]                                                                        | 6:40 PM - November 16, 2026 |
+| [[3. Sessões de jogo/Primeira sessão\|Primeira sessão]]                                                  | 6:40 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Briguela\|Briguela]]                                                              | 6:40 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                                                          | 6:40 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Puck\|Puck]]                                                                      | 6:40 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                                                    | 6:40 PM - November 16, 2026 |
+| [[2. Mundo/Organizações/Conselho de Sapos Investigadores (CSI)\|Conselho de Sapos Investigadores (CSI)]] | 6:40 PM - November 16, 2026 |
+| [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]]                                | 6:40 PM - November 16, 2026 |
 
 { .block-language-dataview}
