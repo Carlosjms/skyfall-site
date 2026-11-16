@@ -5,8 +5,8 @@
 
 Com pouco mais de 850 quilômetros de lado a lado, Opath possui várias regiões de climas muito distintos, com uma geografia intimamente ligada ao sobrenatural e cósmico, um local bastante curioso .
 
-![[Mapa de Opath\|Mapa de Opath]]
-[[Mapa de Opath\|Show to players]]
+![Mapa de Opath.png](/img/user/Main/z_Assets/Mapa%20de%20Opath.png)
+[Show to players](/img/user/Main/z_Assets/Mapa%20de%20Opath.png)
 
 Mas este continente não é estático. As **Quedas** mudaram a sua paisagem para sempre. Abriram o continente ao meio, trouxeram fauna e flora alienígena e, principalmente, determinaram os locais de construção de grandes portos e pontos de partida para jornadas de exploração. 
 ![Queda.png\|banner+tall](/img/user/Main/z_Assets/Imagens/Gerais/Queda.png)
