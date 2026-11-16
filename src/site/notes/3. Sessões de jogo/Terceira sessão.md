@@ -15,7 +15,7 @@ Ele passou um tempo de reclusão com a própria entidade **Morte** no corredor e
 ## Briguela 
 ![Briguela.jpeg\|left profile+circle\|120](/img/user/Main/z_Assets/Imagens/Pessoas/Briguela.jpeg)
 
-Ela roubou um livro de artefatos magitec de [[2. Mundo/NPCs/Edgar Laurentis (cientista)\|Edgar Laurentis]] na taverna Lula Saltitante e estudou-o para aprimorar suas habilidades de artesã **magitécnica**. Descobriu que Edgar Laurentis era um competente **magitécnico** da **Impirish Noitu**.
+Ela roubou um livro de artefatos magitec de [[2. Mundo/NPCs/Edgar Laurentis (cientista da Impirish)\|Edgar Laurentis]] na taverna Lula Saltitante e estudou-o para aprimorar suas habilidades de artesã **magitécnica**. Descobriu que Edgar Laurentis era um competente **magitécnico** da **Impirish Noitu**.
 
 **Mecânica:** escolheu a trilha **Magitécnico**.
 
@@ -78,7 +78,7 @@ Os aventureiros tiveram uma opinião muito forte sobre a aparição de [[2. Mund
 ![Boletim da Queda vol2.png](/img/user/2.%20Mundo/Boletim%20da%20Queda_jog/Boletim%20da%20Queda%20vol2.png)
 
 # Informações com o ferreiro
-O grupo de aventureiros se dirigiu até a ferraria **Fornalha de Tief** para tirar informações de [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé]], um habilidoso artesão na arte. 
+O grupo de aventureiros se dirigiu até a ferraria **Fornalha de Tief** para tirar informações de [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé]], um habilidoso artesão na arte. 
 
 ![Tomé ferreiro.jpg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Tom%C3%A9%20ferreiro.jpg)
 
@@ -89,30 +89,30 @@ Descobriram as informações:
 - Combinou uma entrega de armamentos no **dia 08, Plenudi**. [[1. Grupo/Personagens/Puck\|Puck]] conseguiu um trabalho para atuar como guarda dessa remessa de material.
 
 # Conversa com Bakir 
-Conheceram o anão [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]], um ex-stripper a serviço de **Victor**, um chefe de cassino em **Alberich**, e agora membro da **Guilda de Mayhem**. Ele contou que estragou o seu cargo no antigo emprego no **Cassino Vegas** e foi demitido, mas sente falta. **Bakir** contou que está enojado com a baixaria que é a **Guilda de Mayhem** em **Sal'ein**.
+Conheceram o anão [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]], um ex-stripper a serviço de **Victor**, um chefe de cassino em **Alberich**, e agora membro da **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**. Ele contou que estragou o seu cargo no antigo emprego no **Cassino Vegas** e foi demitido, mas sente falta. **Bakir** contou que está enojado com a baixaria que é a **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]** em **Sal'ein**.
 
 ![Bakir Brick.jpg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Bakir%20Brick.jpg)
 
 Destaques do encontro:
-- Ele precisa de ajuda para sair vivo da **Guilda de Mayhem**.
+- Ele precisa de ajuda para sair vivo da **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**.
 - Existe um artefato capaz de garantir contratos de sombras de pessoas voluntárias em posse de um chefe da máfia, [[2. Mundo/NPCs/Victor (chefão da máfia)\|Victor]], no **Cassino Vegas** em **Alberich**.
 - Pediu garantia de que não teria seu nome entregue ao [[2. Mundo/NPCs/Victor (chefão da máfia)\|Victor]] quando fossem falar com ele, pois tem medo.
-- Ele quer forjar sua morte em uma missão para a **Guilda dos Pescadores Industriais** de **Sal'ein**, que está brigada com a **Guilda de Mayhem**. Dessa forma, ele pode contratar intermediários (o grupo de aventureiros) para auxiliar na missão.
+- Ele quer forjar sua morte em uma missão para a **Guilda dos Pescadores Industriais** de **Sal'ein**, que está brigada com a **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**. Dessa forma, ele pode contratar intermediários (o grupo de aventureiros) para auxiliar na missão.
 
 # Data
 Toda a sessão se passou no dia 06 do anel 359 D.F. 
 
 # Eventos futuros
-Eles precisam fazer uma escolta para [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé (ferreiro)]] no dia 08.
+Eles precisam fazer uma escolta para [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé (ferreiro de Sal'ein)]] no dia 08.
 
 # Próximos passos 
 ## Descobrir Pilar
-A [[2. Mundo/NPCs/Humani (da corte do inverno)\|humani]] que usava um brasão da **Corte de Inverno** na **fábrica abandonada de passarolas** comprou cápsulas de **ferro varmaniano** com [[2. Mundo/NPCs/Tomé (ferreiro)\|Tomé]]. Ela usou o nome de **Pilar** para a transação de 2100 trocados para o artesão.
+A [[2. Mundo/NPCs/Humani (da corte do inverno)\|humani]] que usava um brasão da **Corte de Inverno** na **fábrica abandonada de passarolas** comprou cápsulas de **ferro varmaniano** com [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé]]. Ela usou o nome de **Pilar** para a transação de 2100 trocados para o artesão.
 
 ![Revolver.webp\|banner+small](/img/user/Main/z_Assets/Imagens/Tesouros/Revolver.webp)
 
 ## Ajudar Brick 
-[[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]] pediu ajuda para forjar a própria morte, permitindo que ele fuja da **Guilda de Mayhem**. O que os aventureiros pode fazer para ajudá-los?
+[[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]] pediu ajuda para forjar a própria morte, permitindo que ele fuja da **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**. O que os aventureiros pode fazer para ajudá-los?
 
 ![Bakir Brick.jpg\|banner+small](/img/user/Main/z_Assets/Imagens/Pessoas/Bakir%20Brick.jpg)
 
