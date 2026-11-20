@@ -12,12 +12,12 @@ Use os atalhos abaixo para navegar. Espero que esse acervo ajude a manter essa h
 
 # 🗺️ Explorar o Mundo
 
-| 📖 [[3. Sessões de jogo/Diários de Campanha\|Diários de Campanha]]             | 🧙 [[1. Grupo/Personagens/Visão Geral\|Personagens]] |
+| 📖 [[3. Sessões de jogo/Diários de Campanha\|Diários de Campanha]]                    | 🧙 [[1. Grupo/Personagens/Visão Geral\|Personagens]]   |
 | --------------------------------------------- | --------------------------------- |
 | O registro sessão a sessão da nossa história. | Quem são os heróis desta jornada. |
 
-| 👥 [[2. Mundo/NPCs/Visão Geral dos NPCs\|NPCs]]                      | 🗺️ [[2. Mundo/Locais/Locais de destaque\|Locais de destaque]] |
-|---|---|
+| 👥 [[2. Mundo/NPCs/Visão Geral dos NPCs\|NPCs]]                        | 🗺️ [[2. Mundo/Locais/Locais de destaque\|Locais de destaque]]            |
+| -------------------------------------------------------- | ------------------------------------- |
 | Aliados, inimigos e todos os que cruzaram nosso caminho. | Os cantos do mundo que já exploramos. |
 
 ---
@@ -37,7 +37,9 @@ Use os atalhos abaixo para navegar. Espero que esse acervo ajude a manter essa h
 
 # 📕  Livro de Regras
 
-Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: [Skyfall Livro Básico](https://1drv.ms/b/c/5923b906b67d34e0/IQAuVs8D8NrqRpipwX0cGIIoAXk5490ircXPpbjCyy-BX6U?e=MejTOE).
+Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos clicando na imagem abaixo.
+
+[![Skyfall Logo|center|250](Main/z_Assets/Imagens/Gerais/Skyfall%20Logo-min.jpg)]([https://ko-fi.com/oleeskild](https://1drv.ms/b/c/5923b906b67d34e0/IQAuVs8D8NrqRpipwX0cGIIoAXk5490ircXPpbjCyy-BX6U?e=MejTOE))
 
 ---
 
@@ -45,13 +47,13 @@ Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: 
 
 | Nota                                                                         | Modificado em               |
 | ---------------------------------------------------------------------------- | --------------------------- |
+| [[Página Inicial\|Página Inicial]]                                        | 4:26 PM - November 20, 2026 |
+| [[3. Sessões de jogo/Terceira sessão\|Terceira sessão]]                   | 4:09 PM - November 20, 2026 |
+| [[3. Sessões de jogo/Segunda sessão\|Segunda sessão]]                     | 4:09 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Visão Geral\|Visão Geral]]                         | 4:02 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Rue\|Rue]]                                         | 4:01 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Puck\|Puck]]                                       | 4:00 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                     | 3:59 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] | 3:58 PM - November 20, 2026 |
-| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                           | 3:55 PM - November 20, 2026 |
-| [[1. Grupo/Personagens/Briguela\|Briguela]]                               | 3:55 PM - November 20, 2026 |
-| [[2. Mundo/Criaturas/Lista de criaturas\|Lista de criaturas]]             | 3:50 PM - November 20, 2026 |
 
 { .block-language-dataview}

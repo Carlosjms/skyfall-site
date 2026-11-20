@@ -109,7 +109,7 @@ Eles precisam fazer uma escolta para [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)
 ## Descobrir Pilar
 A [[2. Mundo/NPCs/Humani (da corte do inverno)\|humani]] que usava um brasão da **Corte de Inverno** na **fábrica abandonada de passarolas** comprou cápsulas de **ferro varmaniano** com [[2. Mundo/NPCs/Tomé (ferreiro de Sal'ein)\|Tomé]]. Ela usou o nome de **Pilar** para a transação de 2100 trocados para o artesão.
 
-![Revolver.webp\|banner+small](/img/user/Main/z_Assets/Imagens/Tesouros/Revolver.webp)
+![Revolver.webp\|banner](/img/user/Main/z_Assets/Imagens/Tesouros/Revolver.webp)
 
 ## Ajudar Brick 
 [[2. Mundo/NPCs/Bakir Brick (tôra stripper)\|Bakir Brick]] pediu ajuda para forjar a própria morte, permitindo que ele fuja da **[[2. Mundo/Organizações/Guilda de Mayhem\|Guilda de Mayhem]]**. O que os aventureiros pode fazer para ajudá-los?
@@ -119,7 +119,7 @@ A [[2. Mundo/NPCs/Humani (da corte do inverno)\|humani]] que usava um brasão da
 ## Consertar veículos
 [[1. Grupo/Personagens/Belladonna\|Belladonna]] e [[1. Grupo/Personagens/Briguela\|Briguela]] possuem veículos quebrados parados em suas respectivas garagens. Elas precisam consertá-los para poder usá-los. 
 
-![Passarola.jpg\|banner+small](/img/user/Main/z_Assets/Imagens/Gerais/Passarola.jpg)
+![Passarola.jpg\|banner](/img/user/Main/z_Assets/Imagens/Gerais/Passarola.jpg)
 
 ## Investigar as sombras roubadas no Reino de Blurgh'Ta
 [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] descobriu com seus contatos do [[2. Mundo/Organizações/Conselho de Sapos Investigadores (CSI)\|Conselho de Sapos Investigadores (CSI)]] que mais almas estão sendo roubadas no **Reino de Blurgh'Ta**. O que será que está acontecendo por lá?
