@@ -37,9 +37,8 @@ Use os atalhos abaixo para navegar. Espero que esse acervo ajude a manter essa h
 
 # 📕  Livro de Regras
 
-Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos clicando na imagem abaixo.
+Acesse o [livro de regras](https://1drv.ms/b/c/5923b906b67d34e0/IQAuVs8D8NrqRpipwX0cGIIoAXk5490ircXPpbjCyy-BX6U?e=MejTOE) para o sistema Skyfall RPG que usamos em nossos jogos para conferir suas habilidades, equipamentos e muito mais!.
 
-[![Skyfall Logo|center|250](Main/z_Assets/Imagens/Gerais/Skyfall%20Logo-min.jpg)]([https://ko-fi.com/oleeskild](https://1drv.ms/b/c/5923b906b67d34e0/IQAuVs8D8NrqRpipwX0cGIIoAXk5490ircXPpbjCyy-BX6U?e=MejTOE))
 
 ---
 
@@ -47,7 +46,7 @@ Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos c
 
 | Nota                                                                         | Modificado em               |
 | ---------------------------------------------------------------------------- | --------------------------- |
-| [[Página Inicial\|Página Inicial]]                                        | 4:26 PM - November 20, 2026 |
+| [[Página Inicial\|Página Inicial]]                                        | 4:45 PM - November 20, 2026 |
 | [[3. Sessões de jogo/Terceira sessão\|Terceira sessão]]                   | 4:09 PM - November 20, 2026 |
 | [[3. Sessões de jogo/Segunda sessão\|Segunda sessão]]                     | 4:09 PM - November 20, 2026 |
 | [[1. Grupo/Personagens/Visão Geral\|Visão Geral]]                         | 4:02 PM - November 20, 2026 |
