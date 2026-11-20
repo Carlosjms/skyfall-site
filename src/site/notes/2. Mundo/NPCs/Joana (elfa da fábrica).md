@@ -22,4 +22,4 @@ Por não confiarem nela, acabou sendo obrigada a seguir o grupo de aventureiros.
 
 Essa não foi a última vez que ouvirem o nome da elfa sem-corte, no entanto. No dia **06 do Ciclo do Fogo do anel 349 Depois do Firmamento**, ela teve uma aparição especial no **Boletim da Queda**.
 
-[[Boletim da Queda vol2 (06 Ciclo do Fogo - 349 d.f).pdf|Boletim da Queda vol2 (06 Ciclo do Fogo - 349 d.f).pdf]]
+![Boletim da Queda vol2.png](/img/user/Main/z_Assets/Imagens/Boletim%20da%20Queda/Boletim%20da%20Queda%20vol2.png)

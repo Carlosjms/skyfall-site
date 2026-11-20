@@ -43,15 +43,15 @@ Acesse o livro de regras para o sistema Skyfall RPG que usamos em nossos jogos: 
 
 # 🕓 Recentemente atualizado
 
-| Nota                                                                                  | Modificado em               |
-| ------------------------------------------------------------------------------------- | --------------------------- |
-| [[2. Mundo/Boletim da Queda/Boletim da Queda vol 2\|Boletim da Queda vol 2]]       | 6:45 PM - November 16, 2026 |
-| [[2. Mundo/Boletim da Queda/Boletim da Queda volume 1\|Boletim da Queda volume 1]] | 6:45 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Rue\|Rue]]                                                  | 6:40 PM - November 16, 2026 |
-| [[3. Sessões de jogo/Primeira sessão\|Primeira sessão]]                            | 6:40 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Briguela\|Briguela]]                                        | 6:40 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                                    | 6:40 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Puck\|Puck]]                                                | 6:40 PM - November 16, 2026 |
-| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                              | 6:40 PM - November 16, 2026 |
+| Nota                                                                         | Modificado em               |
+| ---------------------------------------------------------------------------- | --------------------------- |
+| [[1. Grupo/Personagens/Visão Geral\|Visão Geral]]                         | 4:02 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Rue\|Rue]]                                         | 4:01 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Puck\|Puck]]                                       | 4:00 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Dodoia Braith\|Dodoia Braith]]                     | 3:59 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Corythomantis greeningi\|Corythomantis greeningi]] | 3:58 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Belladonna\|Belladonna]]                           | 3:55 PM - November 20, 2026 |
+| [[1. Grupo/Personagens/Briguela\|Briguela]]                               | 3:55 PM - November 20, 2026 |
+| [[2. Mundo/Criaturas/Lista de criaturas\|Lista de criaturas]]             | 3:50 PM - November 20, 2026 |
 
 { .block-language-dataview}

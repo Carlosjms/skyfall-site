@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-sessoes-de-jogo/primeira-sessao/","dg-note-properties":{"tag":"sessão"}}
+{"dg-publish":true,"permalink":"/3-sessoes-de-jogo/primeira-sessao/","dg-note-properties":{"tag":"sessão","data":"18/06/2026"}}
 ---
 
 O grupo de aventureiros foi contactado por uma pessoa que conhece pessoas. Um rosto sem conexão aparente, mas com muitos contatos de poder. A missão passada era resgatar um **elfo do verão** desaparecido há semanas. Como recompensa um possível selo de aprovação para fundarem uma guilda.
@@ -15,7 +15,7 @@ A pequena [[4. Regras/Legados/Tatsunoko\|tatsunoko]] conseguiu fechar algumas v�
 
 Duas escolhas se apresentaram à sua frente: um caminho com um pó branco e um som abafado de algo que levava para dentro da fábrica; e um caminho com sangue fresco que levava para fora da fábrica.
 
-Preocupados com o sangue fresco, saíram da fábrica e chegaram em uma espécie de antigo jardim. Lá, viram uma elfa sem corte, [[Joana\|Joana]], recostada em uma parede. Sua cabeça pendia para o lado e ela sangrava. Eles a questionaram por algum momento, de modo até ríspido por conta da posição de ferimento da elfa, mas por fim o gnomo [[1. Grupo/Personagens/Puck\|Puck]] a curou com sua magia. Ela omitiu algumas informações a princípio, mas acabou compartilhando que tinha ido parar naquele lugar depois de ver um homem saindo de dentro da árvore. Eles a levaram para o caminho do pó branco, que descobriram ser giz de escrita realmente.
+Preocupados com o sangue fresco, saíram da fábrica e chegaram em uma espécie de antigo jardim. Lá, viram uma elfa sem corte, [[2. Mundo/NPCs/Joana (elfa da fábrica)\|Joana]], recostada em uma parede. Sua cabeça pendia para o lado e ela sangrava. Eles a questionaram por algum momento, de modo até ríspido por conta da posição de ferimento da elfa, mas por fim o gnomo [[1. Grupo/Personagens/Puck\|Puck]] a curou com sua magia. Ela omitiu algumas informações a princípio, mas acabou compartilhando que tinha ido parar naquele lugar depois de ver um homem saindo de dentro da árvore. Eles a levaram para o caminho do pó branco, que descobriram ser giz de escrita realmente.
 
 ![Joana.jpg\|profile+circle\|250](/img/user/Main/z_Assets/Imagens/Pessoas/Joana.jpg)
 
